@@ -6,5 +6,10 @@ The current date automatically shows at the top of the application. Each time sl
 - html
 - JavaScript
 - Bootstrap
+- Moment.js library
 
+# GitHub Pages URL: https://github.com/Machikon/WorkDayScheduler
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/106935371/194472219-6adcda4f-a557-457a-85fd-b02add92da8c.png)
 
